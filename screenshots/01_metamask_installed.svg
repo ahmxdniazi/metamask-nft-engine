@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <rect width="800" height="500" fill="#0a0a1a"/>
+  <rect x="20" y="20" width="760" height="460" rx="12" fill="#111122" stroke="#F6851B" stroke-width="2"/>
+  <text x="400" y="200" text-anchor="middle" font-family="monospace" font-size="60" fill="#F6851B">🦊</text>
+  <text x="400" y="270" text-anchor="middle" font-family="monospace" font-size="22" fill="#ffffff" font-weight="bold">MetaMask Installed</text>
+  <text x="400" y="300" text-anchor="middle" font-family="monospace" font-size="13" fill="#aaaacc">Screenshot 01 — Browser Extension Active</text>
+  <text x="400" y="340" text-anchor="middle" font-family="monospace" font-size="11" fill="#555577">[ Place actual screenshot here ]</text>
+  <text x="400" y="460" text-anchor="middle" font-family="monospace" font-size="10" fill="#333355">Muhammad Ahmad · 25I-7705 · FAST NUCES</text>
+</svg>

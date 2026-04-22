@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sensitive files - NEVER commit these
+*.key
+*.pem
+seed_phrase.txt
+private_key.txt
+wallet_secrets*
+
+# Temp files
+*.tmp
+*.temp
